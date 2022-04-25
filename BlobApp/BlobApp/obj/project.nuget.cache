@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "GN7cfsuQPo/CRi9IoiGIwDkXjnW52+TvnqJmoTQ5YQTq7tuvL+p76uO7d8mTGE165EQOZ6QGZcmohPCZBXF64w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\singhpx17\\Downloads\\BlobApp\\BlobApp\\BlobApp\\BlobApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\singhpx17\\.nuget\\packages\\azure.core\\1.9.0\\azure.core.1.9.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\azure.storage.blobs\\12.9.0-beta.1\\azure.storage.blobs.12.9.0-beta.1.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\azure.storage.common\\12.8.0-beta.1\\azure.storage.common.12.8.0-beta.1.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\singhpx17\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
